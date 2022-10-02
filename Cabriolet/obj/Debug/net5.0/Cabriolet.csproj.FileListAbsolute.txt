@@ -1,0 +1,15 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\Cabriolet.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\Cabriolet.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\ref\Cabriolet.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\Cabriolet.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\ref\Cabriolet.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Cabriolet\obj\Debug\net5.0\Cabriolet.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\GasolineCar.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\GasolineCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\ref\GasolineCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\GasolineCar.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.AssemblyReference.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\ref\GasolineCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\GasolineCar\obj\Debug\net5.0\GasolineCar.pdb

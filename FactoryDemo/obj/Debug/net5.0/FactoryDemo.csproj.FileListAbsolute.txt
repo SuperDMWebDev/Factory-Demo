@@ -1,0 +1,38 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csproj.AssemblyReference.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.exe
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.runtimeconfig.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.runtimeconfig.dev.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\ref\FactoryDemo.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\ref\FactoryDemo.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.genruntimeconfig.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.exe
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.deps.json
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.runtimeconfig.json
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.runtimeconfig.dev.json
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\ref\FactoryDemo.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\FactoryDemo.pdb
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\Car.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\bin\Debug\net5.0\Car.pdb
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csprojAssemblyReference.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.AssemblyInfoInputs.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.AssemblyInfo.cs
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csproj.CoreCompileInputs.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.csproj.CopyComplete
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\ref\FactoryDemo.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.pdb
+D:\_ lap trinh windows\19120383\FactoryDemo\FactoryDemo\obj\Debug\net5.0\FactoryDemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\FlyingCar.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\FlyingCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\ref\FlyingCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\FlyingCar.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\ref\FlyingCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\FlyingCar\obj\Debug\net5.0\FlyingCar.csproj.AssemblyReference.cache

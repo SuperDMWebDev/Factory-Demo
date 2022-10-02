@@ -1,0 +1,23 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\bin\Debug\net5.0\Car.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\bin\Debug\net5.0\ref\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\ref\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\Car\obj\Debug\net5.0\Car.pdb
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\bin\Debug\net5.0\Car.deps.json
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\bin\Debug\net5.0\Car.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\bin\Debug\net5.0\ref\Car.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\bin\Debug\net5.0\Car.pdb
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\ref\Car.dll
+D:\_ lap trinh windows\19120383\FactoryDemo\Car\obj\Debug\net5.0\Car.pdb

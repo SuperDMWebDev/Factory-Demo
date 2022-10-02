@@ -1,0 +1,15 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\ElectricCar.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\ElectricCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\ref\ElectricCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\ElectricCar.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.AssemblyReference.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ref\ElectricCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\ElectricCar\obj\Debug\net5.0\ElectricCar.pdb

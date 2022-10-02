@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FactoryDemo/1.0.0": {
+        "dependencies": {
+          "Car": "1.0.0"
+        },
+        "runtime": {
+          "FactoryDemo.dll": {}
+        }
+      },
+      "Car/1.0.0": {
+        "runtime": {
+          "Car.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Car/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

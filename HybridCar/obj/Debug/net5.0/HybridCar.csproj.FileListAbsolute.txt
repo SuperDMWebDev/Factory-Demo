@@ -1,0 +1,15 @@
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\HybridCar.deps.json
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\HybridCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\ref\HybridCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\HybridCar.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\Car.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\bin\Debug\net5.0\Car.pdb
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.csproj.AssemblyReference.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.AssemblyInfoInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.AssemblyInfo.cs
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.csproj.CoreCompileInputs.cache
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.csproj.CopyComplete
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\ref\HybridCar.dll
+D:\Document\Nam 3\Lap trinh Windows\Bai tap tai lop\FactoryDemo\HybridCar\obj\Debug\net5.0\HybridCar.pdb
